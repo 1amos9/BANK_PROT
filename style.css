@@ -11,8 +11,8 @@
   
   body {
     font-family: 'Poppins', sans-serif;
-    color: #444;
-    background-color: #f3f3f3;
+    color: rgb(10, 9, 9);
+    background-color: #8e8c8c;
     height: 100vh;
     padding: 2rem;
   }
