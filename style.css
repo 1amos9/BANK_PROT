@@ -12,7 +12,7 @@
   body {
     font-family: 'Poppins', sans-serif;
     color: rgb(10, 9, 9);
-    background-color: #8e8c8c;
+    background-color: #b7b5b5;
     height: 100vh;
     padding: 2rem;
   }
@@ -108,7 +108,7 @@
   
   .balance__date {
     font-size: 1.4rem;
-    color: #888;
+    color: rgb(23, 22, 22);
   }
   
   .balance__value {
