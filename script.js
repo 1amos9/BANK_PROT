@@ -91,7 +91,9 @@ if(dayPassed==0) return `Today`;
 const month=`${date.getMonth()+1}`.padStart(2,0);
 const year=date.getFullYear();
 return `${day}/ ${month}/ ${year}`;
-    };
+    
+// return new Intl.DateTimeFormat(locale).format(date);
+};
 }
 
 const displayMovements = function (acc, sort = false) {
